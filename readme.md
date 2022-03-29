@@ -11,7 +11,7 @@
 ## I'm a Student !!
 - 🌱 I’m currently learning everything about web 🤣
 - 🥅 2022 Goals: Learn more tecnology 
-- ⚡ Fun fact: I love to listening to music (Avicii <3), playing soccer with my friend and watching movie
+- ⚡ Fun fact: I love listening to music (Avicii <3), playing soccer with my friend and watching movie
 
 ## 💻 Languages and Tools:
 <br/>
