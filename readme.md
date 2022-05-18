@@ -46,7 +46,7 @@
 </p>
 <br/>
 
-## 📊 Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
   <br/>
   <summary><b>⚡ Recent GitHub Stats</b></summary>
   <br/>
