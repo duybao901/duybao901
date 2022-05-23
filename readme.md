@@ -37,12 +37,6 @@
 &emsp;
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
-&emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  </a> 
-	  &emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </a> 
 </p>
 <br/>
 
