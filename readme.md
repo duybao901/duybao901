@@ -8,7 +8,7 @@
 [![Facebook Profile](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bao.duy.076/)
 
 
-## 🚀 I'm a Front End Developer 🚀 !!
+## 🚀 I'm a Front End Developer 🚀
 - 🌱 I’m currently learning everything about web 🤣
 - 🥅 2022 Goals: Learn more tecnology 
 - ⚡ Fun fact: I love listening to music (Avicii <3), playing soccer with my friend and watching movie
