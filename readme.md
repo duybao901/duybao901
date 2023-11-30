@@ -9,9 +9,8 @@
 
 📧 Contact: duycarry123@gmail.com
 ##  I'm a Front End Developer 🚀
-- 🌱 I’m currently learning everything about web 🤣
-- 🥅 2022 Goals: Learn more tecnology 
-- 🧑 About Me: I very love listening to music (Avicii 🎶), playing soccer with my friend and watching movie
+- 🌱 I’m currently learning everything about web
+- 🥅 2024 Goals: Learn more tecnology 
 
 ## 💻 Languages and Tools:
 <br/>
