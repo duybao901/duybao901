@@ -7,7 +7,7 @@
 📧 Contact: duycarry123@gmail.com
 ##  I'm a Front End Developer 🚀
 - 🌱 I’m currently learning everything about web
-- 🥅 2024 Goals: Learn more tecnology 
+- 🥅 2025 Goals: Learn more tecnology 
 
 ## 💻 Languages and Tools:
 <br/>
@@ -32,6 +32,8 @@
   </a>
 &emsp;
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=python&logoColor=white">
   </a>
 </p>
 <br/>
