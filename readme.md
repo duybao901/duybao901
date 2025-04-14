@@ -21,6 +21,7 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>&emsp;
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>&emsp;
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>&emsp;
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>&emsp;             
 </p>
 
 <!-- Backend & Programming Languages -->
@@ -51,15 +52,19 @@
 </p>
 <br/>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
-<br/>
 <summary><b>⚡ Recent GitHub Stats</b></summary>
 <br/>
+
 <p align="center">
-  <a href="https://github.com/duybao901"><img alt="Duy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duybao901&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <a href="https://github.com/duybao901">
+    <img alt="Duy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=duybao901&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duybao901&show_icons=true&locale=en&layout=compact&theme=algolia" alt="duybao901" height="192px"/>
+  <a href="https://github.com/duybao901">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=duybao901&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
+  </a>
 </p>
 
-> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+> 💡 **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
