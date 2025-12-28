@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Duy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 📧 Contact: duycarry123@gmail.com  
-## I'm a Front End Developer 🚀 I often feel that all I can see are winding roads. Still, believing that they do lead to the destination, I will continue to sing
+## I'm a Front End Developer 🚀 I often feel that all I can see are winding roads. Still, believing that they do lead to the destination, I will continue to code
 
 
 ## 💻 Languages and Tools:
