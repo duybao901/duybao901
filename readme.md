@@ -2,8 +2,7 @@
 
 📧 Contact: duycarry123@gmail.com  
 ## I'm a Front End Developer 🚀
-- 🌱 I’m currently learning everything about web  
-- 🥅 2025 Goals: Learn more technology  
+🚀 I often feel that all I can see are winding roads. Still, believing that they do lead to the destination, I will continue to sing
 
 ## 💻 Languages and Tools:
 <br/>
